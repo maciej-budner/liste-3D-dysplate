@@ -9,7 +9,8 @@ Toutes les images proviennent du site [Display](https://displate.com), issues de
 
 Si quelqu’un s’amuse à générer un APK à partir de ce projet et à le publier, je n’en serai pas responsable.
 
-##Visuel de l'application et son fonctionnement
+# Visuel de l'application et son fonctionnement
+
 <img src="screen/Screenshot_20250906_015038_list 3d Display.jpg" width="200" height="400"/>
 
 Voilà à quoi cela ressemble. On peut voir qu'en haut à droite, on aperçoit le nombre d'images dans notre panier et lorsque l'on clique sur une des images :
@@ -30,7 +31,7 @@ Le bouton devient "Valider" et on peut cliquer dessus. Bien sûr, on peut clique
 
 <img src="screen/Screenshot_20250906_015123_Write on PDF.jpg" width="200" height="400"/>
 
-##Futures améliorations
+# Futures améliorations
 
 Corriger le bug où l'on ne peut supprimer qu'une seule image à la fois : pour en supprimer une autre, il faut quitter la page et revenir.
 
