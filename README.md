@@ -14,12 +14,12 @@ Si quelqu’un s’amuse à générer un APK à partir de ce projet et à le pub
 
 Voilà à quoi cela ressemble. On peut voir qu'en haut à droite, on aperçoit le nombre d'images dans notre panier et lorsque l'on clique sur une des images :
 
-<img src="sreen/Screenshot_20250906_015042_list 3d Display.jpg" width="200" height="400"/>
+<img src="screen/Screenshot_20250906_015042_list 3d Display.jpg" width="200" height="400"/>
 
 Le compteur s'incrémente.
 Si on appuie sur le panier, cela nous redirige vers une page avec les images que l'on a choisies :
 
-<img src="sreen/Screenshot_20250906_015052_list 3d Display.jpg" width="200" height="400"/>
+<img src="screen/Screenshot_20250906_015052_list 3d Display.jpg" width="200" height="400"/>
 
 On peut voir qu'en bas, le bouton indique qu'il faut un nom dans l'EditText en haut de la page. Tant qu'aucune lettre n'est saisie, le bouton reste désactivé.
 Mais si on le complète :
