@@ -45,4 +45,4 @@ Traduire l'application en plusieurs langues selon la langue du téléphone, en g
 
 Revoir l'esthétique de l'application et du PDF.
 
-Refusé de valider la commande si il n'y a pas de commande dans ke cadis.
+Refusé de valider la commande si il n'y a pas de commande dans le cadis.
