@@ -10,7 +10,7 @@ Toutes les images proviennent du site [Display](https://displate.com), issues de
 Si quelqu’un s’amuse à générer un APK à partir de ce projet et à le publier, je n’en serai pas responsable.
 
 ##Visuel de l'application et son fonctionnement
-<img src="sreen/Screenshot_20250906_015038_list 3d Display.jpg" width="200" height="400"/>
+<img src="screen/Screenshot_20250906_015038_list 3d Display.jpg" width="200" height="400"/>
 
 Voilà à quoi cela ressemble. On peut voir qu'en haut à droite, on aperçoit le nombre d'images dans notre panier et lorsque l'on clique sur une des images :
 
@@ -24,11 +24,11 @@ Si on appuie sur le panier, cela nous redirige vers une page avec les images que
 On peut voir qu'en bas, le bouton indique qu'il faut un nom dans l'EditText en haut de la page. Tant qu'aucune lettre n'est saisie, le bouton reste désactivé.
 Mais si on le complète :
 
-<img src="sreen/Screenshot_20250906_015101_list 3d Display.jpg" width="200" height="400"/>
+<img src="screen/Screenshot_20250906_015101_list 3d Display.jpg" width="200" height="400"/>
 
 Le bouton devient "Valider" et on peut cliquer dessus. Bien sûr, on peut cliquer sur une image pour la retirer du panier. Si on clique sur "Valider", le PDF avec toutes les images choisies se télécharge automatiquement dans le répertoire Downloads :
 
-<img src="sreen/Screenshot_20250906_015123_Write on PDF.jpg" width="200" height="400"/>
+<img src="screen/Screenshot_20250906_015123_Write on PDF.jpg" width="200" height="400"/>
 
 ##Futures améliorations
 
