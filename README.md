@@ -44,3 +44,5 @@ Au lieu de télécharger le PDF, peut-être permettre l'envoi par mail, Discord,
 Traduire l'application en plusieurs langues selon la langue du téléphone, en gardant l'anglais comme langue universelle.
 
 Revoir l'esthétique de l'application et du PDF.
+
+Refusé de valider la commande si il n'y a pas de commande dans ke cadis.
