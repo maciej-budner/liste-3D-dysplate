@@ -11,12 +11,15 @@ Si quelqu’un s’amuse à générer un APK à partir de ce projet et à le pub
 
 # Update
 Ajout de 114 images, ce qui porte le total à plus de 200 images. Pour le moment, aucune latence n'a été constatée.
+
 Test de correction du bug qui faisait disparaître les images après un certain nombre d'ouvertures de l'application.
 J'ai ajouté la suppression de toutes les ressources dans la fonction onDestroy(), exécutée lors de la fermeture de l'application.
 Avec plus de 200 images, les performances restent bonnes et aucune latence n'est observée. Cependant, il faudra surveiller le comportement lorsque le nombre d'images dépassera 500 voire 1 000, car la suppression de toutes les ressources à la fermeture pourrait devenir plus coûteuse.
+
 Modification de l'apparence des menus :
 
 Avant : 1 image par ligne.
+
 Maintenant : 2 images par ligne, ce qui améliore l'utilisation de l'espace et l'affichage du contenu.
 
 <img src="screen/newimagelist.jpg" width="200" height="400"/>
