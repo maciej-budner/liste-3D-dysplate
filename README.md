@@ -64,4 +64,4 @@ Revoir l'esthétique de l'application et du PDF.
 
 Refusé de valider la commande si il n'y a pas de commande dans le cadis.
 
-une erreur urgente survient, il arrive que quand j'allume l'application toute mes image ne s'affice plus, faut que je relance le reals depuis ma machine.
+[X] une erreur urgente survient, il arrive que quand j'allume l'application toute mes image ne s'affice plus, faut que je relance le reals depuis ma machine.
