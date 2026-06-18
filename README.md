@@ -50,18 +50,18 @@ Le bouton devient "Valider" et on peut cliquer dessus. Bien sûr, on peut clique
 
 # Futures améliorations
 
-Corriger le bug où l'on ne peut supprimer qu'une seule image à la fois : pour en supprimer une autre, il faut quitter la page et revenir.
+[ ] Corriger le bug où l'on ne peut supprimer qu'une seule image à la fois : pour en supprimer une autre, il faut quitter la page et revenir.
 
-Si l'on a deux images identiques, seule une s'affiche car Realm supprime les doublons. Deux solutions : afficher un multiplicateur ou afficher les doublons.
+[ ] Si l'on a deux images identiques, seule une s'affiche car Realm supprime les doublons. Deux solutions : afficher un multiplicateur ou afficher les doublons.
 
-Tester les limites pour voir combien d'images on peut ajouter avant que l'application freeze ou lag.
+[ ] Tester les limites pour voir combien d'images on peut ajouter avant que l'application freeze ou lag.
 
-Au lieu de télécharger le PDF, peut-être permettre l'envoi par mail, Discord, Instagram ou bloc-notes.
+[ ] Au lieu de télécharger le PDF, peut-être permettre l'envoi par mail, Discord, Instagram ou bloc-notes.
 
-Traduire l'application en plusieurs langues selon la langue du téléphone, en gardant l'anglais comme langue universelle.
+[ ] Traduire l'application en plusieurs langues selon la langue du téléphone, en gardant l'anglais comme langue universelle.
 
-Revoir l'esthétique de l'application et du PDF.
+[ ] Revoir l'esthétique de l'application et du PDF.
 
-Refusé de valider la commande si il n'y a pas de commande dans le cadis.
+[ ] Refusé de valider la commande si il n'y a pas de commande dans le cadis.
 
 [X] une erreur urgente survient, il arrive que quand j'allume l'application toute mes image ne s'affice plus, faut que je relance le reals depuis ma machine.
