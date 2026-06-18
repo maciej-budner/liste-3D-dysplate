@@ -9,7 +9,7 @@ Toutes les images proviennent du site [Display](https://displate.com), issues de
 
 Si quelqu’un s’amuse à générer un APK à partir de ce projet et à le publier, je n’en serai pas responsable.
 
-# Update
+# Update 06/2026
 Ajout de 114 images, ce qui porte le total à plus de 200 images. Pour le moment, aucune latence n'a été constatée.
 
 Test de correction du bug qui faisait disparaître les images après un certain nombre d'ouvertures de l'application.
